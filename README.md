@@ -6,6 +6,8 @@ _A low-cost arduino-based TMS ([transcranial magnetic stimulation](https://en.wi
 
 ## Introduction
 
+## TMSuino has strong side effects. It should only be used in extreme cases of bipolar disorder and only in combination with established medication!
+
 Several years ago I found out that _fear_ seems to help people with bipolar disorder. Therapies only work, if patients are "aware of possibly dramatic consequences" AKA "have fear".
 While most people think of the motivational aspect of fear I thought about brain chemistry. It makes sense to activate the brain in times of distress to help survival. Increase probability for a good idea how to deal with the sabertooth tiger by boosting the brain.
 And there is a saying which gives another hint: Fear makes you wide awake. 
